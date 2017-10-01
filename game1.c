@@ -7,7 +7,12 @@
 
 #include <stdio.h>
 
+/* */
+
+
 int main(void){
+	int a;
+	scanf(a);
 	printf("Test me!");
 	return 0;
 }
