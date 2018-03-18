@@ -15,4 +15,8 @@ typedef struct point_struct{
 
 } point;
 
+typedef struct player_struct{
+	int result;
+} player;
+
 #endif /* GAME1_H_ */

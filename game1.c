@@ -6,13 +6,20 @@
  */
 
 #include <stdio.h>
+#include "game1.h"
 
 /* */
 
 
 int main(void){
-	int a;
-	scanf(a);
-	printf("Test me!");
-	return 0;
+	int a=10;
+	printf("enter number:\n");
+	scanf("%d",&a);
+	printf("Test me! %d", a);
+	return 1;
 }
+
+
+/*
+ * Each game will implement
+ * */
